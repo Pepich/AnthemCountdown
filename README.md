@@ -52,7 +52,7 @@ If you don't need the interactive setup, feel free to read the parts below and f
 
 # Commands:
 
-- @<bot> timer
+- @\<bot\> timer
   * Sets the active channel to the current one
   * No command prefix
   * Resets the message limit counter

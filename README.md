@@ -70,5 +70,20 @@ If you don't need the interactive setup, feel free to read the parts below and f
   * Respects message limit (if user is whitelisted, this limit will be ignored)
   * Force updates the message and pulls it to the bottom of the channel
   * Can be run by anyone
- 
+
+-----
+
+# Permissions
+
+The bot *must have* permissions to:
+- Send messages
+- Read messages
+The bot *should have* permissions to:
+- Read message history
+  * If you don't give it this permission, it will not work after a restart, until someone runs the command. This is a limitation imposed by discord!
+The bot *can have* permissions to:
+- Manage messages
+  * This permission is entirely optional. If you do grant this permission to the bot, it will automatically clean up command messages for you. Without this perm, it will simply leave the message containing the command untouched.
+
+
 If you want to support me and this project, feel free to [help me out on PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DEUF3QEVD84N&source=url) :D

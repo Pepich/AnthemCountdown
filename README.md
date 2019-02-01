@@ -1,3 +1,6 @@
+![logo](https://4.bp.blogspot.com/-7xLJv2aFp0w/Wp7bptztqWI/AAAAAAAAAF0/fZAFWH4Kt5ElR84sxuAu3N8eudo7cLTVgCK4BGAYYCw/s1600/ai%2Blogo%2Bmedium%2B4.png)  
+This bot was made for [Anthem Insider](https://antheminsider.com)! 
+
 ### If you're looking for AnthemInsider's Anthem Countdown bot, then you have come to the right place!
 
 First of all - the bot has two major launch modes:
@@ -68,3 +71,4 @@ If you don't need the interactive setup, feel free to read the parts below and f
   * Force updates the message and pulls it to the bottom of the channel
   * Can be run by anyone
  
+If you want to support me and this project, feel free to [help me out on PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DEUF3QEVD84N&source=url) :D

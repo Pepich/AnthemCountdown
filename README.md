@@ -85,5 +85,6 @@ The bot *can have* permissions to:
 - Manage messages
   * This permission is entirely optional. If you do grant this permission to the bot, it will automatically clean up command messages for you. Without this perm, it will simply leave the message containing the command untouched.
 
+-----
 
 If you want to support me and this project, feel free to [help me out on PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DEUF3QEVD84N&source=url) :D

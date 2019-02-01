@@ -11,6 +11,10 @@ If you're unsure about how to use the flags to set up the bot, or if you simply 
 
 If you don't need the interactive setup, feel free to read the parts below and figure out how to do it on your own :P
 
+You can download the bot in the `releases` tab. Current version is v1.1.
+
+`shasum -a 256 timer_bot.jar fb1c60c67a945427fabf7f0186faa20f0f9b7a318209bf04969623374db7a0c5`
+
 --------
 
 # Flags:
